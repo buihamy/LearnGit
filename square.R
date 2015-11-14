@@ -1,3 +1,3 @@
-square <- function(x){
-  return(x*x)
+square <- function(y){
+  return(y*y)
 }
